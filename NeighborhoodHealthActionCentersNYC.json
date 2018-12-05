@@ -15,6 +15,21 @@
           40.79767894810212
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brownsville Neighborhood Health Action Center",
+        "Address": "259 Bristol Street, Brooklyn",
+        "URL": "https://www1.nyc.gov/site/doh/health/neighborhood-health/neighborhood-health-action-centers.page"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91122251749039,
+          40.664668697115346
+        ]
+      }
     }
   ]
 }
