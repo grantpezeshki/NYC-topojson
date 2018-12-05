@@ -30,6 +30,21 @@
           40.664668697115346
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tremont Neighborhood Health Action Center",
+        "Address": "1826 Arthur Avenue, Bronx",
+        "URL": "https://www1.nyc.gov/site/doh/health/neighborhood-health/neighborhood-health-action-centers.page"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89424949884415,
+          40.8441405913208
+        ]
+      }
     }
   ]
 }
