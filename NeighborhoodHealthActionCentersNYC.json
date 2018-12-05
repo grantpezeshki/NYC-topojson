@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East Harlem Neighborhood Health Action Center",
+        "Address": "158 East 115th Street, Manhattan",
+        "URL": "https://www1.nyc.gov/site/doh/health/neighborhood-health/neighborhood-health-action-centers.page"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94182920455933,
+          40.79767894810212
+        ]
+      }
+    }
+  ]
+}
